@@ -8,6 +8,8 @@
 **参与人**：[狗头哥]()、[wangjx](https://github.com/wangjinxile)、[小兔子乖乖](https://github.com/PandasCute)      
 百度云盘下载链接:为避免数据丢失，提供数据集下载地址链接：   
 **初赛数据集**链接：https://pan.baidu.com/s/1_DfbjLh-zzx2SMNyukIIjQ 提取码：81hy 
+**复赛数据集**链接：https://pan.baidu.com/s/1glQ2JN8SgfmgldQce1visw 提取码：vmgx  
+
 
 
 

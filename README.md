@@ -10,7 +10,7 @@
 **初赛数据集**链接：https://pan.baidu.com/s/1_DfbjLh-zzx2SMNyukIIjQ 提取码：81hy  
 **复赛数据集**链接：https://pan.baidu.com/s/1glQ2JN8SgfmgldQce1visw 提取码：vmgx    
 # 数据说明  
-| 字段名     | 中文解释|  字段说明 |
+| 字段名      | 中文解释 |  字段说明  |
 
 
 

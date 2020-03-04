@@ -72,6 +72,8 @@
 - python notebook
 ## 3.代码运行步骤说明
 首先运行
+> 1.dx_base_drop_black_list.ipynb  
+> 2.
 ## 4.特征工程 
 
 ## 5.模型训练
